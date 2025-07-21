@@ -57,7 +57,7 @@
 | Folder | Description | Link |
 |--------|-------------|------|
 | 01-home-lab | Setting up a multi-VM cybersecurity lab | [View Repo](https://github.com/OlaideOlapade/Setting-up-a-Multi-VM-Cybersecurity-Lab.git) |
-| 02-ad-deployment | Installing and hardening Active Directory | [View Repo](#) |
+| 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/OlaideOlapade/Active-Directory-Deployment---Installing-and-Hardening.git) |
 | 03-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
 | 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
