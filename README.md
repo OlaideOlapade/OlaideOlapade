@@ -59,12 +59,12 @@
 | 01-home-lab | Setting up a multi-VM cybersecurity lab | [View Repo](https://github.com/OlaideOlapade/Setting-up-a-Multi-VM-Cybersecurity-Lab.git) |
 | 02-AD-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/OlaideOlapade/Active-Directory-Deployment---Installing-and-Hardening.git) |
 | 03-AWS-development | Configuring and hardening Cloud console in AWS | [View Repo](https://github.com/OlaideOlapade/AWS-IAM-Cloud-Security-Project.git) |
-| 04-security-policy-dev | Creating and Enforcing Security Policies | [View Repo](https://github.com/OlaideOlapade/Creating-and-Enforcing-Security-Policies-in-Organisations.git) |
-| 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/OlaideOlapade/Vulnerability-Assessment.git) |
-| 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
-| 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
-| 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
-| 09-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](#) |
+| 04-Security-policy-dev | Creating and Enforcing Security Policies | [View Repo](https://github.com/OlaideOlapade/Creating-and-Enforcing-Security-Policies-in-Organisations.git) |
+| 05-Vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/OlaideOlapade/Vulnerability-Assessment.git) |
+| 06-Network-monitoring | Detecting Failed Lodin on Windows Server through Splunk dashboards | [View Repo](#) |
+| 07-Risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
+| 08-Mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
+| 09-Phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](#) |
 | 10-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](#) |
 | 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
 | 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
