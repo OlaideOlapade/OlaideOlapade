@@ -61,7 +61,7 @@
 | 03-AWS-development | Configuring and hardening Cloud console in AWS | [View Repo](https://github.com/OlaideOlapade/AWS-IAM-Cloud-Security-Project.git) |
 | 04-Security-policy-dev | Creating and Enforcing Security Policies | [View Repo](https://github.com/OlaideOlapade/Creating-and-Enforcing-Security-Policies-in-Organisations.git) |
 | 05-Vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/OlaideOlapade/Vulnerability-Assessment.git) |
-| 06-Network-monitoring | Detecting Failed Lodin on Windows Server through Splunk dashboards | [View Repo](#) |
+| 06-Network-monitoring | Detecting Failed Lodin on Windows Server through Splunk dashboards | [View Repo](https://github.com/OlaideOlapade/SPLUNK-ALERT-PROJECT-REPORT.git) |
 | 07-Risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
 | 08-Mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
 | 09-Phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](#) |
