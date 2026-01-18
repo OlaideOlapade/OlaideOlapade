@@ -62,7 +62,7 @@
 | 04-Security-policy-dev | Creating and Enforcing Security Policies | [View Repo](https://github.com/OlaideOlapade/Creating-and-Enforcing-Security-Policies-in-Organisations.git) |
 | 05-Vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/OlaideOlapade/Vulnerability-Assessment.git) |
 | 06-Network-monitoring | Detecting Failed Lodin on Windows Server through Splunk dashboards | [View Repo](https://github.com/OlaideOlapade/SPLUNK-ALERT-PROJECT-REPORT.git) |
-| 07-Risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
+| 07-Risk-assessment | CIA impact mapping and risk matrix | [View Repo](https://github.com/OlaideOlapade/Risk-Assessment.git) |
 | 08-Mitre-Threat-Hunt | ATT&CK-aligned threat hunting scripts | [View Repo](https://github.com/OlaideOlapade/Threat-Hunting-Practical-Documentation..git) |
 | 09-Phishing-simulation | Phishing Simulation  | [View Repo](https://github.com/OlaideOlapade/Phishing-Simulation.git) |
 | 10-phishing-email-analysis | Email header and domain analysis toolkit | [View Repo](https://github.com/OlaideOlapade/Phishing-Email-Analysis.git) |
