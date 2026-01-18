@@ -66,7 +66,7 @@
 | 08-Mitre-Threat-Hunt | ATT&CK-aligned threat hunting scripts | [View Repo](https://github.com/OlaideOlapade/Threat-Hunting-Practical-Documentation..git) |
 | 09-Phishing-simulation | Phishing Simulation  | [View Repo](https://github.com/OlaideOlapade/Phishing-Simulation.git) |
 | 10-phishing-email-analysis | Email header and domain analysis toolkit | [View Repo](https://github.com/OlaideOlapade/Phishing-Email-Analysis.git) |
-| 10a-Cryptocurrency-Phishing-Scam | Realworld Phishing Analysis | [View Repo](#|
+| 10a-Cryptocurrency-Phishing-Scam | Realworld Phishing Analysis | [View Repo](https://github.com/OlaideOlapade/Incident-Report-on-Cryptocurrency-Phishing-Scam.git)|
 | 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
 | 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
 | 13-Malware-Analysis | Malware Creation and Analysis | [View Repo](https://github.com/OlaideOlapade/Malware-Creation-and-Analysis.git) |
